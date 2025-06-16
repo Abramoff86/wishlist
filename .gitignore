@@ -5,3 +5,4 @@ alembic.ini
 /frontend
 __pycache__/
 config.py
+app/migrations
