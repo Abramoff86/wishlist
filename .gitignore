@@ -1,0 +1,7 @@
+alembic.ini
+.venv
+.idea
+/src
+/frontend
+__pycache__/
+config.py
